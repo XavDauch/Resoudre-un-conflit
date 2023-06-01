@@ -1,4 +1,4 @@
 # Resoudre-un-conflit
-Exercice merging
+Je pense que je vais y arriver.
 au pays de candie
 Comme dans tous les pays....
