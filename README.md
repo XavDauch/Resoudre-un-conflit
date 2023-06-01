@@ -1,4 +1,4 @@
 # Resoudre-un-conflit
-Exercice merging
+Je me suis trompé
 au pays de candie
 Comme dans tous les pays....
